@@ -6,6 +6,9 @@ To use the ‘http’ package, add it in the pubspec.yaml file.
 Add this under the dependencies section. 
 In Main.Dart file, we define all the functions . 
 
+# NOTE 
+  For output of this Program , your smartphone must be connceted to Internet otherwise this API is not running .
+
 
 
 
