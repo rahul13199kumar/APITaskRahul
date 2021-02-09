@@ -4,7 +4,6 @@ Here we use http Package to Fetch the data from network and show in the home pag
 To do networking , we need the ‘http’ package. First we need to get the package.
 To use the ‘http’ package, add it in the pubspec.yaml file.
 Add this under the dependencies section. 
-
 In Main.Dart file, we define all the functions . 
 
 
